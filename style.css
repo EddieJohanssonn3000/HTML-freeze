@@ -1,0 +1,43 @@
+body {
+    background-color: #262626;
+    width: 415px;
+}
+
+.bild-1 {
+    width: 415px;
+    height: 400px;
+    margin-top: 0%;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem; 
+    line-height: 2.125rem; 
+    color: #FFFFFF;
+}
+
+.Text-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 0.75rem; 
+    line-height: 1.6875rem; 
+    letter-spacing: 0%;
+    color: #CACACA;
+}
+
+.Text-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1.125rem; 
+    line-height: 1.6875rem; 
+    color: #E9AA89;
+}
+
+.Text-3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem; 
+    line-height: 1.8125rem; 
+    color: #FFFFFF;
+}
