@@ -1,12 +1,12 @@
 body {
     background-color: #262626;
-    width: 415px;
+    margin: 0;
 }
 
 .bild-1 {
     width: 415px;
     height: 400px;
-    margin-top: 0%;
+    
 }
 
 h2 {
@@ -17,8 +17,15 @@ h2 {
     color: #FFFFFF;
 }
 
-.Text-1 {
+p {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    padding: 15px;
+}
+
+.Text-1 {   
     font-weight: 700;
     font-size: 0.75rem; 
     line-height: 1.6875rem; 
@@ -27,7 +34,6 @@ h2 {
 }
 
 .Text-2 {
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 1.125rem; 
     line-height: 1.6875rem; 
@@ -35,7 +41,6 @@ h2 {
 }
 
 .Text-3 {
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 1rem; 
     line-height: 1.8125rem; 
