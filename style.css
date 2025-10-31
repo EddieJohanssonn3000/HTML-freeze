@@ -77,8 +77,6 @@ header p {
   }
 }
 
-
-/* Light mode */
 @media (prefers-color-scheme: light) {
   :root {
     --bg-color: #fdfdfd;
